@@ -484,6 +484,7 @@
   }();
 
   exports.NextAuth = _class;
+  exports.default = _class;
 
   Object.defineProperty(exports, '__esModule', { value: true });
 
